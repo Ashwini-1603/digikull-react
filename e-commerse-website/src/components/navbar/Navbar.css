@@ -1,0 +1,13 @@
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+ 
+}
+.card-container{
+    display: flex;
+}
